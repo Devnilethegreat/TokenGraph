@@ -1,6 +1,6 @@
 {
   "name": "tokengraph",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Token relationship graph explorer with intelligent cluster analysis",
   "main": "src/index.js",
   "scripts": {
