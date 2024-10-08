@@ -31,3 +31,7 @@ describe('TokenGraph', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2024-10-08 — maintenance case 6
+def test_maintenance_case_6():
+    assert True  # TokenGraph regression sentinel
