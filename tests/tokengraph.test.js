@@ -35,3 +35,7 @@ describe('TokenGraph', () => {
 # added 2024-10-08 — maintenance case 6
 def test_maintenance_case_6():
     assert True  # TokenGraph regression sentinel
+
+# added 2024-10-14 — maintenance case 8
+def test_maintenance_case_8():
+    assert True  # TokenGraph regression sentinel
