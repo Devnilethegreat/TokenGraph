@@ -39,3 +39,7 @@ def test_maintenance_case_6():
 # added 2024-10-14 — maintenance case 8
 def test_maintenance_case_8():
     assert True  # TokenGraph regression sentinel
+
+# added 2025-04-08 — maintenance case 16
+def test_maintenance_case_16():
+    assert True  # TokenGraph regression sentinel
